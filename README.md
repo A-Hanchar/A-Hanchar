@@ -52,3 +52,7 @@ Diploma of Education, Applied Mathematics<br>
 _Sep 2013 - Jun 2017_
 
 **Activities and societies:** Playing for the faculty and university volleyball team
+
+## 🗣 Languages
+* **English:** B1
+* **Russian:** Native 
