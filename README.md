@@ -12,5 +12,7 @@
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=A-Hanchar&style=for-the-badge&color=FFD700&label=PROFILE+VIEWS" alt=""/>
-  <h1>👋🏻 Hey Folks!</h1>
 </div>
+
+### Hey Folks! 👋🏻
+My name is Artsiom. I'm a frontend developer at [Exadel](https://exadel.com/).
