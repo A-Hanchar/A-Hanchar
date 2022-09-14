@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 ### Hey Folks! 👋🏻
 **My name is Artsiom. I'm a frontend developer at [Exadel](https://exadel.com/).**
 
+**Email:** artsiom.hanchar@gmail.com
+
 ## Technologies Stack
 **Technologies:**
 * HTML5/CSS3/PostCSS
