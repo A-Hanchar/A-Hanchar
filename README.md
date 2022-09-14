@@ -14,16 +14,16 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img src="./programmer-icon.png" alt="Artsiom Hanchar" width="250" height="auto">
+  <img src="./programmer-icon.png" alt="Artsiom Hanchar" width="200">
   <div>
     <a href="https://www.linkedin.com/in/artsiom-hanchar/" target="_blank">
-      <img src="./linkedin-icon.png" alt="" width="75" height="75">
+      <img src="./linkedin-icon.png" alt="" width="50" height="50">
     </a>
     <a href="https://www.instagram.com/tema_igorevich/" target="_blank">
-      <img src="./instagram-icon.png" alt="" width="75" height="75">
+      <img src="./instagram-icon.png" alt="" width="50" height="50">
     </a>
     <a href="https://t.me/AHanchar" target="_blank">
-      <img src="./telegram-icon.png" alt="" width="75" height="75">
+      <img src="./telegram-icon.png" alt="" width="50" height="50">
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=A-Hanchar&style=for-the-badge&color=FFD700&label=PROFILE+VIEWS" alt=""/>
