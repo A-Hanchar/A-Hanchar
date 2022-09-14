@@ -46,6 +46,45 @@ Here are some ideas to get you started:
 * GitHub
 * Jira
 
+## 👨‍💻 Work Experience
+> ### Associate Software Engineer
+[Exadel](https://exadel.com/), _Jun 2021 - Present_
+
+Active learning modern front-end technologies<br>
+Working as developer at projects
+
+**Technologies:**
+* HTML5/CSS3/PostCSS
+* JavaScript
+* React/Redux
+* Jest/Enzyme/RTL
+
+**Software and Tools:**
+* VS Code
+* GitHub
+* Jira
+
+<hr size="2px">
+
+> ### Web Developer
+**LTD "OKP Lain"**, _Nov 2020 - May 2021_
+
+Developing websites using Figma layouts and support this websites.<br>
+Migration websites to WordPress.
+
+**Technologies:**
+* HTML5/CSS3
+* JavaScript
+* PHP
+* MySQL
+* WordPress
+
+**Software and Tools:**
+* CRM Bitrix24
+* Bitrix24 API
+* Figma
+
+
 ## 👨‍🎓 Education
 **Francisk Skorina Gomel State University**<br>
 Diploma of Education, Applied Mathematics<br>
