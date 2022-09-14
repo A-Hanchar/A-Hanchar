@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 **Email:** artsiom.hanchar@gmail.com
 
-## Technologies Stack
+## 👨‍🔧 Technologies Stack
 **Technologies:**
 * HTML5/CSS3/PostCSS
 * JS
@@ -46,4 +46,9 @@ Here are some ideas to get you started:
 * GitHub
 * Jira
 
+## 👨‍🎓 Education
+**Francisk Skorina Gomel State University**<br>
+Diploma of Education, Applied Mathematics<br>
+_Sep 2013 - Jun 2017_
 
+**Activities and societies:** Playing for the faculty and university volleyball team
