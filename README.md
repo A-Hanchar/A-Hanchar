@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 ## 👨‍🔧 Technologies Stack
 **Technologies:**
 * HTML5/CSS3/PostCSS
-* JS
+* JavaScript
 * React/Redux
 * Jest/Enzyme/RTL
 
@@ -78,6 +78,27 @@ Developing websites using technical requirement and layouts.
 **Technologies:** HTML5, CSS3, JavaScript, JQuery, PHP, MySQL <br>
 **Software and Tools:** CRM Bitrix24, Bitrix24 API, AmoCRM, PBX "Asterisk"
 
+<hr>
+
+> ### Wordpress Developer
+**RealWeb (online agency)**, _Jan 2020 - Aug 2020_
+
+Outsource. <br>
+Developing websites using Figma layouts <br>
+Migration websites to WordPress.
+
+**Technologies:** HTML5, CSS3, JavaScript, PHP, WordPress <br>
+**Software and Tools:** Figma
+
+<hr>
+
+> ### Intern
+**Production Unitary Enterprise "ALCOPACK"**, _Feb 2017 - Mar 2017_
+
+ Internship <br>
+ Create HTML-template for enterprise "Alcopak"
+ 
+ **Technologies:** HTML5, CSS3
 
 ## 👨‍🎓 Education
 **Francisk Skorina Gomel State University**<br>
