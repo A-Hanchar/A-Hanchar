@@ -53,18 +53,10 @@ Here are some ideas to get you started:
 Active learning modern front-end technologies<br>
 Working as developer at projects
 
-**Technologies:**
-* HTML5/CSS3/PostCSS
-* JavaScript
-* React/Redux
-* Jest/Enzyme/RTL
+**Technologies:** HTML5, CSS3, PostCSS, JavaScript, React, Redux, Jest, Enzyme, RTL <br>
+**Software and Tools:** VS Code, GitHub, Jira
 
-**Software and Tools:**
-* VS Code
-* GitHub
-* Jira
-
-<hr size="2px">
+<hr>
 
 > ### Web Developer
 **LTD "OKP Lain"**, _Nov 2020 - May 2021_
@@ -72,17 +64,19 @@ Working as developer at projects
 Developing websites using Figma layouts and support this websites.<br>
 Migration websites to WordPress.
 
-**Technologies:**
-* HTML5/CSS3
-* JavaScript
-* PHP
-* MySQL
-* WordPress
+**Technologies:** HTML5, CSS3, JavaScript, PHP, MySQL, WordPress <br>
+**Software and Tools:** CRM Bitrix24, Bitrix24 API, Figma
 
-**Software and Tools:**
-* CRM Bitrix24
-* Bitrix24 API
-* Figma
+<hr>
+
+> ### Programmer
+**1Professional**, _Mar 2017 - Nov 2020_
+
+Developing and support websites.<br>
+Developing websites using technical requirement and layouts. 
+
+**Technologies:** HTML5, CSS3, JavaScript, JQuery, PHP, MySQL <br>
+**Software and Tools:** CRM Bitrix24, Bitrix24 API, AmoCRM, PBX "Asterisk"
 
 
 ## 👨‍🎓 Education
