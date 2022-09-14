@@ -2,7 +2,7 @@
   <img src="./programmer-icon.png" alt="Artsiom Hanchar" width="250" height="auto">
   <div>
     <a href="https://www.linkedin.com/in/artsiom-hanchar/" target="_blank">
-      <img src="./linkedIn-icon.png" alt="" width="75" height="75">
+      <img src="./linkedin-icon.png" alt="" width="75" height="75">
     </a>
     <a href="https://www.instagram.com/tema_igorevich/" target="_blank">
       <img src="./instagram-icon.png" alt="" width="75" height="75">
