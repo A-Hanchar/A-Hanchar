@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 ## 👨‍🔧 Technologies Stack
 **Technologies:**
 * HTML5/CSS3/PostCSS
-* JavaScript
+* JavaScript/TypeScript
 * React/Redux
 * Jest/Enzyme/RTL
 
@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 Active learning modern front-end technologies<br>
 Working as developer at projects
 
-**Technologies:** HTML5, CSS3, PostCSS, JavaScript, React, Redux, Jest, Enzyme, RTL <br>
+**Technologies:** HTML5, CSS3, PostCSS, JavaScript, TypeScript, React, Redux, Jest, Enzyme, RTL <br>
 **Software and Tools:** VS Code, GitHub, Jira
 
 <hr>
